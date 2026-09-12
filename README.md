@@ -1,103 +1,112 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+Amma Vilichu AI 🎯
+Basic Details
+Team Name: Draconix⚡
+Team Members
+Jyothika S Ashok — Government Engineering College Kozhikode
+Pavithra CN — Government Engineering College Kozhikode
+Project Description
 
+Amma Vilichu AI is a fun AI web app that checks your room cleanliness like a typical Kerala Amma on a video call. Just upload your room photo and it predicts when Amma will call — from "NO CALL TODAY" with balloons for aesthetic clean rooms, to "ROPE IS COMING" in 3 minutes for messy rooms, with funny Manglish dialogues.
 
+The Problem (that doesn't exist)
 
-# [Project Name] 🎯
+Every Kerala student lives with the terrifying suspense of Amma's sudden video call — "Room ondo nokkatte!"
 
+No existing app can measure this emotional damage or tell you how much time you have left to hide your mess before Amma sees it and brings the rope. 😭
 
-## Basic Details
-### Team Name: [Name]
+The Solution (that nobody asked for)
 
+We made an AI version of Amma that judges your room photo in 2 seconds.
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+If your room is aesthetic, she gives you balloons and says:
 
-### Project Description
-[2-3 lines about what your project does]
+"Ninte room Pinterest pole aanallo!"
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Result: NO CALL TODAY 🎈
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+If it's a mess, she starts a countdown timer and shouts:
 
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+"Mone, rope eduthond varatte?"
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+You get 3 minutes to run and clean! 🧹
 
-### Implementation
-For Software:
-# Installation
-[commands]
+Technical Details
+Technologies/Components Used
 
-# Run
-[commands]
-
-### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Language: Python
+Framework: Streamlit
+Libraries: Pillow (PIL), Random, Time, Streamlit Balloons & Snow Effects
+Tools: VS Code, GitHub, Streamlit Cloud, ChatGPT (for Manglish dialogues)
+Implementation
+Installation
+git clone https://github.com/your-username/amma-vilichu-ai
+cd amma-vilichu-ai
+pip install -r requirements.txt
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Run
+streamlit run app.py
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Project Documentation
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+All project screenshots, documentation, and visual demonstrations are available in the Google Drive folder below:
 
-For Hardware:
+📂 Google Drive : https://drive.google.com/drive/folders/1Vhqyi-TQxb_HWsGWlmcgitBPjN39mtas?usp=drive_link
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+View Project Documentation & Screenshots
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+The Drive folder contains:
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+Project screenshots
+Application interface
+Room analysis results
+Countdown demonstration
+Clean-room result
+Messy-room result
+Other project documentation
+Screenshots & Visual Documentation
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+Instead of embedding individual screenshots in this README, all screenshots and visual documentation are available in the Google Drive folder:
 
-![Final](Add photo of final product here)
-*Explain the final build*
+🔗 Open Screenshots & Documentation
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+Diagrams
 
-# Additional Demos
-[Add any extra demo materials/links]
+The project workflow/architecture diagram is also included in the Google Drive documentation folder.
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+🔗 View Workflow Diagram
 
----
-Made with ❤️ at TinkerHub Useless Projects 
+Hardware
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
+This project is a software-only project, so no hardware components or circuit diagrams are required.
 
+Project Demo
+Video
+
+The project demonstration video is available here:
+
+🎥 Watch Project Demo
+
+The video demonstrates:
+
+Uploading a room image
+AI-based room cleanliness evaluation
+Clean-room response
+Messy-room response
+Manglish Amma dialogues
+Countdown timer
+Balloons/snow effects for clean rooms
+Additional Demos
+
+Additional screenshots, demonstrations, and project materials can be found in the Google Drive folder:
+
+📂 View Additional Project Materials
+
+Team Contributions
+Jyothika S Ashok: Application development, Streamlit interface, room-analysis logic, UI design and testing.
+Pavithra CN: Manglish dialogue creation, testing, documentation, project presentation and demo preparation.
+
+Made with ❤️ at TinkerHub Useless Projects
 
 

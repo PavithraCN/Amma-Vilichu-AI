@@ -2,96 +2,77 @@
 
 
 
-# [Project Name] 🎯
+# [Amma Vilichu] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Draconix]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Pavithra CN] - [Government Engineering College Kozhikode]
+- Member 2: [Jyothika S Ashok] - [Government Engineering College Kozhikode]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[Amma Vilichu AI is a fun AI web app that checks your room cleanliness like a typical Kerala Amma on a video call. Just upload your room photo and it predicts when Amma will call - from NO CALL TODAY with balloons for aesthetic clean rooms, to ROPE IS COMING in 3 mins for messy rooms, with funny Manglish dialogues.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Every Kerala student lives with the terrifying suspense of Amma's sudden video call - "Room ondo nokkatte!" No existing app can measure this emotional damage or tell you how much time you have left to hide your mess before Amma sees it and brings the rope.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We made an AI version of Amma that judges your room photo in 2 seconds. If your room is aesthetic, she gives you balloons and says "Ninte room Pinterest pole aanallo!" - NO CALL TODAY. If it's a mess, she starts a countdown timer and shouts "Mone, rope eduthond varatte?" with full Manglish roasting, giving you 3 mins to run and clean!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: Python
+- Frameworks used: Streamlit
+- Libraries used: Pillow (PIL), Random, Time, Streamlit Balloons & Snow Effects
+- Tools used: VS Code, GitHub, Streamlit Cloud, ChatGPT (for Manglish dialogues)
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+[git clone https://github.com/PavithraCN/amma-vilichu-ai
+cd amma-vilichu-ai
+pip install -r requirements.txt]
 # Run
-[commands]
+[streamlit run app.py]
 
-### Project Documentation
-For Software:
+Project Documentation
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Assets & Screenshots
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+All project assets, screenshots, diagrams, build photos, and other documentation materials are available in the following Google Drive folder:
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Google Drive: https://drive.google.com/drive/folders/1Vhqyi-TQxb_HWsGWlmcgitBPjN39mtas?usp=drive_link
 
+The folder contains:
+
+- 📸 Project screenshots
+- 🔧 Build/process photos
+- 📐 Workflow and architecture diagrams
+- 🖥️ UI/website screenshots
+- 🎥 Demo videos
+- 📄 Additional project documentation
+
+
+
+Additional Resources
+
+All supporting files and resources related to the project are organized in the shared Google Drive folder for easy access.
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Pavithra CN]: [Design and development]
+- [Jyothika S Ashok]: [testing,debugging and documentation]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
